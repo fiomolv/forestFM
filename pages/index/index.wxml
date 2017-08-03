@@ -1,2 +1,10 @@
 <!--index.wxml-->
-<button bindtap="openno1">\n\n第一期：首播|日暮归途</button> 
+<navigator url="../no1/no1">
+  <view hover-class="index_selected" class="index">
+  <image src="../../images/music_selected.png" style="width: 20px; height: 20px" class="music_logo"></image>
+  1. 首播|日暮归途
+  </view>
+  <view class="description">
+  \n主播：阿晖
+  </view>
+</navigator>

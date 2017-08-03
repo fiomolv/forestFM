@@ -5,7 +5,7 @@ Page({
   //播放  
   listenerButtonPlay: function () {
     wx.playBackgroundAudio({
-      dataUrl: 'http://vocaroo.com/i/s0yicjjRGRgu',
+      dataUrl: 'https://www.dropbox.com/s/4mpccj6rwyq80qf/forestFM1.mp3?raw=1',
       title: '首播丨日暮归途 森林电台',//节目名称
       //图片地址地址  
       coverImgUrl: 'https://image.ibb.co/ixetiF/background.png'

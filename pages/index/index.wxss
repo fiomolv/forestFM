@@ -1,1 +1,30 @@
 /**index.wxss**/
+.index {
+  display: flex;
+  font-size: 30rpx;
+}
+
+.index_selected {
+  display: flex;
+  font-size: 30rpx;
+  color: #4b9166;
+}
+.description {
+  display: flex;
+  font-size: 20rpx;
+  margin-left: 105rpx;
+}
+.description_selected {
+  display: flex;
+  font-size: 20rpx;
+  margin-left: 105rpx;
+  color: #4b9166;
+}
+
+.music_logo {
+  display: flex;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+
+
