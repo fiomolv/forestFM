@@ -1,0 +1,11 @@
+<!--profile.wxml-->
+<text class="remark" >\n\n\n\n本电台来自微信公众号“律树成音”，主要内容为中外古典音乐，其余内容来源于网易云音乐“讲不完的故事”。</text>
+<text class="remark">\n\n截屏保存图片后扫二维码关注 微信号ournomos</text>
+<view class="center">
+  <image class="linkImage" src="https://preview.ibb.co/hZLzOF/Wechat_IMG45.jpg" mode="aspectFit">
+  </image>
+</view>
+
+<text class="welcome">\n\nHello Forest</text>
+
+

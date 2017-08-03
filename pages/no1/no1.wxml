@@ -1,0 +1,27 @@
+<view class="center">
+  <image class="image" src="https://preview.ibb.co/ibptiF/pic.png" mode="aspectFit">
+  </image>
+</view>
+
+<view class="center">
+  <button class="button-style" type="primary" size="mini" plain="true" bindtap="listenerButtonPlay">
+    播放
+  </button>
+  <button class="button-style" type="primary" size="mini" plain="true" bindtap="listenerButtonPause">
+    暂停
+  </button>
+  <button class="button-style" type="primary" size="mini" plain="true" bindtap="listenerButtonStop">
+    停止播放
+  </button> 
+</view>
+
+
+<text class="title">\n\n首播丨日暮归途 森林电台</text>
+<text class="line">—————————————\n\n</text>
+<view class="center">
+  <text class="description">
+  伊索说音乐可以迟延死亡，这也许有些夸张，但说它可以迟延精神死亡，则是无可非议的。生活就像一次长途旅行，有些人关心目的地，一小时都坐立不安；有些人关心沿途风景，十小时也只觉一霎。\n
+
+工作、学习都需要能量，可你仍然只满足于从睡眠、锻炼中汲取的能量吗？倘若答案是否定的，那么22:01，来小森林约会吧，这里有星海、上音的爱乐人为您精选的中西方古典音乐！停下手中的工作，享受几分钟的音乐慢生活，说不定会有意想不到的收获哦~（悄悄告诉你，美丽的阿晖还会不定期带来情感小故事!）
+  </text>
+</view>

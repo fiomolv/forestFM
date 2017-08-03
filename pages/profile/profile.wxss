@@ -1,0 +1,70 @@
+/* profile.wxss */
+.userinfo{
+  padding:30px 20px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo-avatar{
+  width:128rpx;
+  height:128rpx;
+  margin:20rpx;
+  border-radius:50%;
+}
+.button-style{  
+    background-color: #eee;  
+    border-radius: 20rpx; 
+    flex-direction: column; 
+}  
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #A6E0C5;
+  font-size: 50rpx; 
+}
+.image {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #10754c;
+}
+.line{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #a9b5a8;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30rpx;
+  margin-left: 50rpx;
+  margin-right: 55rpx;
+}
+.remark {
+  color: #a9b5a8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 25rpx; 
+  margin-left: 50rpx;
+  margin-right: 40rpx;
+}
+.linkImage {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
